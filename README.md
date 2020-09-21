@@ -1,6 +1,7 @@
 # 🧙‍♂️ Monorepo Proof of Concept
 
-Based off of [this blog post](https://josephluck.co.uk/blog/next-typescript-monorepo/)
+Based off of [this blog post](https://josephluck.co.uk/blog/next-typescript-monorepo/) by [Joesph Luck](https://josephluck.co.uk/)
+
 The idea behind this is that each directory (base, siteuno, ...) can use code from other directories despite them being different projects.
 
 ## ⚙ Installation

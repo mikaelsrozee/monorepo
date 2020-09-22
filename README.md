@@ -13,7 +13,7 @@ Treat each directory as a seperate [next.js](https://nextjs.org/) project. Run c
 1. Duplicate the "siteuno" directory
 2. Change name in `new_dir/package.json` to `@mono/new-dir`
 3. Add the directory to `./package.json`
-4. Start importing from other directories!
+4. Start importing from other directories! (make sure you add each directory that you want to import to that directory's `package.json` - see `siteuno/package.json`)
 
 ## 🔮 How does it work?
 
